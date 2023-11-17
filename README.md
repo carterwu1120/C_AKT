@@ -1,7 +1,7 @@
 # Convolutional Attentive Knowledge Tracing
 * The undergraduate project done at NTNU.
 # C_AKT
-Convolutional Attentive Knowledge Tracing which only use problem feature and concept features to train.
+Convolutional Attentive Knowledge Tracing, which utilizes only problem and concept features for training.
 # C_AKT_diff
-Convolutional Attentive Knowledge Tracing which use student cognitive difficulty feature, problem feature and concept feature.
+Convolutional Attentive Knowledge Tracing, which utilizes student cognitive difficulty feature, problem feature and concept feature for training.
 
