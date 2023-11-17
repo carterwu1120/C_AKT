@@ -1,0 +1,14 @@
+ Epoch: 0001  loss_train: 0.60104  auc_train: 0.71506  acc_train: 0.66219  loss_val: 0.53209  auc_val: 0.79481  acc_val: 0.72008
+ Epoch: 0002  loss_train: 0.52389  auc_train: 0.79584  acc_train: 0.71666  loss_val: 0.46673  auc_val: 0.84118  acc_val: 0.75155
+ Epoch: 0003  loss_train: 0.48993  auc_train: 0.82317  acc_train: 0.73687  loss_val: 0.43065  auc_val: 0.86476  acc_val: 0.77176
+ Epoch: 0004  loss_train: 0.46651  auc_train: 0.84050  acc_train: 0.75042  loss_val: 0.41298  auc_val: 0.87480  acc_val: 0.78011
+ Epoch: 0005  loss_train: 0.44797  auc_train: 0.85317  acc_train: 0.76092  loss_val: 0.40158  auc_val: 0.87990  acc_val: 0.78506
+ Epoch: 0006  loss_train: 0.43383  auc_train: 0.86188  acc_train: 0.76857  loss_val: 0.39482  auc_val: 0.88382  acc_val: 0.78891
+ Epoch: 0007  loss_train: 0.42341  auc_train: 0.86845  acc_train: 0.77456  loss_val: 0.39073  auc_val: 0.88606  acc_val: 0.79159
+ Epoch: 0008  loss_train: 0.41590  auc_train: 0.87275  acc_train: 0.77848  loss_val: 0.38853  auc_val: 0.88726  acc_val: 0.79269
+ Epoch: 0009  loss_train: 0.40936  auc_train: 0.87671  acc_train: 0.78233  loss_val: 0.38609  auc_val: 0.88859  acc_val: 0.79254
+ Epoch: 0010  loss_train: 0.39544  auc_train: 0.88532  acc_train: 0.79085  loss_val: 0.38575  auc_val: 0.88899  acc_val: 0.79376
+ Epoch: 0011  loss_train: 0.39984  auc_train: 0.88240  acc_train: 0.78818  loss_val: 0.38522  auc_val: 0.88947  acc_val: 0.79410
+ Epoch: 0012  loss_train: 0.39664  auc_train: 0.88415  acc_train: 0.78967  loss_val: 0.38597  auc_val: 0.88968  acc_val: 0.79450
+ Epoch: 0013  loss_train: 0.39354  auc_train: 0.88604  acc_train: 0.79139  loss_val: 0.38401  auc_val: 0.89008  acc_val: 0.79638
+ Epoch: 0015  loss_train: 0.38889  auc_train: 0.88876  acc_train: 0.79381  loss_val: 0.38264  auc_val: 0.89097  acc_val: 0.79721
