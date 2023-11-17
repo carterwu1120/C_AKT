@@ -1,2 +1,3 @@
+# Convolutional Attentive Knowledge Tracing
+The undergraduate project done at NTNU.
 # C_AKT
-Convolutional Attentive Knowledge Tracing, which was the undergraduate project done at NTNU.
