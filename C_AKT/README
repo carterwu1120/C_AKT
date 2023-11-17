@@ -1,5 +1,6 @@
 1. train_data_junyi:
   a. Use the number of response records of students 100 to 499 as training data.
+  b. This file is zipped, so you need to unzip the file after download.
 2. test_data_junyi:
   a. Use the number of response records of students 500 to 999 as testing data.
   b. "junyi_100to999_dedup_PC" records the problems answered by students.
