@@ -1,4 +1,6 @@
-1. test_data_junui:
-  a. Use students numbered 500 to 999 as test data.
-  b. "junyi_100to999_dedup_PC" record the questions answered by students no.100 to no.999.
+1. train_data_junyi:
+  a. Use the response records of students numbered 100 to 499 as training data.
+2. test_data_junyi:
+  a. Use the response records of students numbered 500 to 999 as testing data.
+  b. "junyi_100to999_dedup_PC" records the problems answered by students.
   
