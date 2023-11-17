@@ -1,1 +1,4 @@
-* file : text_data_junui
+1. test_data_junui:
+  a. Use students numbered 500 to 999 as test data.
+  b. "junyi_100to999_dedup_PC" record the questions answered by students no.100 to no.999.
+  
